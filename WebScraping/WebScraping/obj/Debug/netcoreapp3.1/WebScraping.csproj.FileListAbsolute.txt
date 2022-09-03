@@ -1,0 +1,17 @@
+C:\Users\Pedro\Documents\GitHub\TakeHomeCodingChallenge\WebScraping\WebScraping\bin\Debug\netcoreapp3.1\WebScraping.exe
+C:\Users\Pedro\Documents\GitHub\TakeHomeCodingChallenge\WebScraping\WebScraping\bin\Debug\netcoreapp3.1\WebScraping.deps.json
+C:\Users\Pedro\Documents\GitHub\TakeHomeCodingChallenge\WebScraping\WebScraping\bin\Debug\netcoreapp3.1\WebScraping.runtimeconfig.json
+C:\Users\Pedro\Documents\GitHub\TakeHomeCodingChallenge\WebScraping\WebScraping\bin\Debug\netcoreapp3.1\WebScraping.runtimeconfig.dev.json
+C:\Users\Pedro\Documents\GitHub\TakeHomeCodingChallenge\WebScraping\WebScraping\bin\Debug\netcoreapp3.1\WebScraping.dll
+C:\Users\Pedro\Documents\GitHub\TakeHomeCodingChallenge\WebScraping\WebScraping\bin\Debug\netcoreapp3.1\WebScraping.pdb
+C:\Users\Pedro\Documents\GitHub\TakeHomeCodingChallenge\WebScraping\WebScraping\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+C:\Users\Pedro\Documents\GitHub\TakeHomeCodingChallenge\WebScraping\WebScraping\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Pedro\Documents\GitHub\TakeHomeCodingChallenge\WebScraping\WebScraping\obj\Debug\netcoreapp3.1\WebScraping.csproj.AssemblyReference.cache
+C:\Users\Pedro\Documents\GitHub\TakeHomeCodingChallenge\WebScraping\WebScraping\obj\Debug\netcoreapp3.1\WebScraping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Documents\GitHub\TakeHomeCodingChallenge\WebScraping\WebScraping\obj\Debug\netcoreapp3.1\WebScraping.AssemblyInfoInputs.cache
+C:\Users\Pedro\Documents\GitHub\TakeHomeCodingChallenge\WebScraping\WebScraping\obj\Debug\netcoreapp3.1\WebScraping.AssemblyInfo.cs
+C:\Users\Pedro\Documents\GitHub\TakeHomeCodingChallenge\WebScraping\WebScraping\obj\Debug\netcoreapp3.1\WebScraping.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Documents\GitHub\TakeHomeCodingChallenge\WebScraping\WebScraping\obj\Debug\netcoreapp3.1\WebScraping.csproj.CopyComplete
+C:\Users\Pedro\Documents\GitHub\TakeHomeCodingChallenge\WebScraping\WebScraping\obj\Debug\netcoreapp3.1\WebScraping.dll
+C:\Users\Pedro\Documents\GitHub\TakeHomeCodingChallenge\WebScraping\WebScraping\obj\Debug\netcoreapp3.1\WebScraping.pdb
+C:\Users\Pedro\Documents\GitHub\TakeHomeCodingChallenge\WebScraping\WebScraping\obj\Debug\netcoreapp3.1\WebScraping.genruntimeconfig.cache
